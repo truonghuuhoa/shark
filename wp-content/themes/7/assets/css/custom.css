@@ -1,0 +1,204 @@
+img.attachment-woocommerce_thumbnail.size-woocommerce_thumbnail {
+    width: 100% !important;
+    height: auto !important;
+}
+.col-lg-3.col-sm-6 {
+    margin-bottom: 16px;
+}
+.quantity {
+    width: 74px;
+}
+del .woocommerce-Price-amount bdi {
+  font-size: 15px;
+  color: #ccacac;
+  padding: 4px;
+}
+
+ins {
+    text-decoration: none;
+}
+nav.woocommerce-breadcrumb {
+    font-size: 11px;
+}
+p#breadcrumbs {
+    margin-bottom: -10px;
+    margin-top: -10px;
+}
+.input-group.mb-3 {
+    width: 27%;
+}
+input#coupon_code {
+    border-radius: 4px;
+}
+.col-7 {
+    text-align: right;
+}
+.wc-proceed-to-checkout {
+    text-align: center;
+}
+p.return-to-shop {
+    text-align: center;
+}
+input#billing_last_name {
+    padding: 6px 11px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ced4da;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+input#billing_company {
+  padding: 6px 11px !important;
+  margin: 8px 0 !important;
+  display: inline-block !important;
+  border: 1px solid #ced4da !important;
+  box-sizing: border-box !important;
+  border-radius: 5px !important;
+}
+input#shipping_company {
+  padding: 6px 11px !important;
+  margin: 8px 0 !important;
+  display: inline-block;
+  border: 1px solid #ced4da !important;
+  box-sizing: border-box !important;
+  border-radius: 5px !important;
+}
+input#billing_address_1 {
+  width: 100%;
+  padding: 6px 11px;
+  display: inline-block;
+  border: 1px solid #ced4da;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+input#billing_phone {
+  width: 100%;
+  padding: 6px 11px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ced4da;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+input#billing_email {
+  width: 100%;
+  padding: 6px 11px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ced4da;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+textarea#order_comments{
+  height: 71px;
+  width: 100%;
+  padding: 6px 11px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ced4da;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+input#shipping_phone {
+    width: 100%;
+    padding: 6px 11px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ced4da;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+input#shipping_last_name {
+  width: 100%;
+  padding: 6px 11px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ced4da;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+input#shipping_address_1 {
+  width: 100%;
+  padding: 6px 11px;
+  display: inline-block;
+  border: 1px solid #ced4da;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+span.select2-selection.select2-selection--single{
+  width: 100%;
+  border: 1px solid #ced4da;
+  box-sizing: border-box;
+}
+.widget ul li {
+    display: block;
+    font-weight: 500;
+    font-size: 14px;
+    margin-top: 5px;
+}
+ul {
+  padding-left: 0 !important;
+}
+footer .widget ul li a {
+    color: #ffffffcc;
+}
+
+h5.mb-0.text-dark {
+    margin-top: 3%;
+}
+.row.text-left {
+    /* margin-bottom: -1%; */
+    margin-top: -1%;
+}
+.p-3 {
+    text-align: -webkit-left;
+}
+ul {
+    list-style: none;
+}
+th.product-name {
+  width: 50% !important ;
+}
+th.product-price {
+    width: 25% !important;
+}
+th.product-subtotal {
+    width: 50% !important;
+}
+i.bx.bxl-facebook {
+    font-size: 18px;
+}
+i.bx.bxl-instagram {
+    font-size: 18px;
+}
+i.bx.bxl-messenger {
+    font-size: 18px;
+}
+i.bx.bxl-shopify {
+    font-size: 18px;
+}
+
+a.me-2.btn.btn-success.btn-sm.btn-rounded.waves-effect.waves-light.view {
+    margin-left: 20%;
+}
+p.woocommerce-LostPassword.lost_password {
+    text-align: right;
+    margin-right: 6%;
+}
+.row.justify-content-center.single img {
+  width: 100%;
+  height: auto;
+}
+footer.landing-footer {
+    background-color: #344454 !important;
+}
+.textwidget.custom-html-widget {
+    color: #ffffffcc !important;
+}
+.form-icon .icons {
+    position: absolute;
+    top: 13px;
+    left: 18px;
+}
+

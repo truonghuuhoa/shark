@@ -1,0 +1,25 @@
+2021-12-05T05:05:54+00:00 CRITICAL Uncaught TypeError: Automattic\WooCommerce\GoogleListingsAndAds\ActionScheduler\ActionScheduler::cancel(): Return value must be of type string, int returned in C:\xampp\htdocs\wordpress\wp-content\plugins\google-listings-and-ads\src\ActionScheduler\ActionScheduler.php:171
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\google-listings-and-ads\src\Notes\NoteInitializer.php(119): Automattic\WooCommerce\GoogleListingsAndAds\ActionScheduler\ActionScheduler->cancel('wc_gla_cron_dai...')
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\google-listings-and-ads\src\Infrastructure\GoogleListingsAndAdsPlugin.php(74): Automattic\WooCommerce\GoogleListingsAndAds\Notes\NoteInitializer->deactivate()
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\google-listings-and-ads\google-listings-and-ads.php(66): Automattic\WooCommerce\GoogleListingsAndAds\Infrastructure\GoogleListingsAndAdsPlugin->deactivate()
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): {closure}(false)
+#4 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#5 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(821): do_action('deactivate_goog...', false)
+#7 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(208): deactivate_plugins('google-listings...', false, false)
+#8 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\google-listings-and-ads\src\ActionScheduler\ActionScheduler.php on line 171
+
+2021-12-05T18:37:05+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "redirect_login_page" not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php:303
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\wordpress\wp-settings.php(578): do_action('init')
+#3 C:\xampp\htdocs\wordpress\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 303
+

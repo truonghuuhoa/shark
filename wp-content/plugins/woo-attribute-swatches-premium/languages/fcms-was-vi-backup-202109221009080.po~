@@ -1,0 +1,308 @@
+# Copyright (C) 2021 fcms-woo-attribute-swatches
+# This file is distributed under the same license as the fcms-woo-attribute-swatches package.
+msgid ""
+msgstr ""
+"Project-Id-Version: fcms-woo-attribute-swatches\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:"
+"1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: vi\n"
+"PO-Revision-Date: 2021-09-22 10:08+0000\n"
+"POT-Creation-Date: 2021-09-22 10:00+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: Tiếng Việt\n"
+"X-Loco-Version: 2.5.3; wp-5.8.1"
+
+#: inc/admin/product-tab.php:80
+msgid ""
+"Before you can modify swatches, you need to add some attributes for "
+"variations on the <strong>Attributes</strong> tab. Once you've saved your "
+"product, you can come back here!"
+msgstr ""
+"Trước khi bạn có thể sửa đổi các mẫu, bạn cần thêm một số thuộc tính cho các "
+"biến thể trên tab <strong>Thuộc tính</strong>. Khi bạn đã lưu sản phẩm của "
+"mình, bạn có thể quay lại đây!"
+
+#: inc/admin/settings.php:31
+msgid "Border"
+msgstr "Bo viền"
+
+#: iconic-woo-attribute-swatches.php:363
+msgid "Calculating Price..."
+msgstr "Đang tính giá..."
+
+#: inc/class-attributes.php:423
+msgid "Catalog Swatch Method"
+msgstr ""
+
+#: inc/class-attributes.php:430
+msgid "Change Product Image"
+msgstr "Thay đổi hình ảnh sản phẩm"
+
+#: inc/admin/settings.php:26
+msgid "Choose the style for selected image or colour swatches."
+msgstr ""
+
+#: inc/class-attributes.php:323
+msgid "Choose the type of swatches to use for this attribute."
+msgstr ""
+
+#: inc/class-swatches.php:31 inc/class-swatches.php:451
+msgid "Colour Swatch"
+msgstr ""
+"\n"
+"Màu sắc"
+
+#: inc/class-fees.php:108 inc/class-attributes.php:316
+#: inc/admin/product-tab.php:36
+msgid "Default"
+msgstr "Mặc định"
+
+#: inc/class-attributes.php:392
+msgid "Display a larger preview of the image swatch within a tooltip."
+msgstr ""
+
+#: inc/admin/settings.php:36
+msgid "Enable Accordion"
+msgstr ""
+
+#: inc/class-attributes.php:376
+msgid "Enable Tooltips?"
+msgstr "Bật Chú thích công cụ?"
+
+#: inc/class-attributes.php:475
+msgid ""
+"Enter group labels into the field and press enter or select from the "
+"dropdown."
+msgstr ""
+
+#. Author of the plugin
+msgid "FCMS <support@fcmswp.com>"
+msgstr ""
+
+#: inc/class-fees.php:101 inc/class-fees.php:734
+msgid "Fee"
+msgstr "Phí"
+
+#: inc/class-fees.php:97
+msgid "Fees"
+msgstr "Phí"
+
+#: inc/class-fees.php:634
+msgid "From"
+msgstr "Từ"
+
+#: inc/admin/settings.php:20
+msgid "General"
+msgstr ""
+"Tổng quan\n"
+
+#: inc/class-swatches.php:160 inc/class-attributes.php:796
+msgid "Group"
+msgstr "Nhóm"
+
+#: inc/class-attributes.php:474
+msgid "Groups"
+msgstr "Các nhóm"
+
+#: inc/class-helpers.php:78
+msgid "H"
+msgstr ""
+
+#: inc/class-attributes.php:441
+msgid ""
+"How to display swatches with a large number of attributes. For radio buttons,"
+" this applies to the catalog view only."
+msgstr ""
+"Làm thế nào để hiển thị các mẫu với một số lượng lớn các thuộc tính. Đối với "
+"các nút radio, điều này chỉ áp dụng cho chế độ xem danh mục."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://fcmswp.com"
+msgstr ""
+
+#: inc/class-swatches.php:66 inc/class-swatches.php:450
+msgid "Image Swatch"
+msgstr "Swatch hình ảnh"
+
+#: inc/class-swatches.php:86
+msgid "Insert Image"
+msgstr "Chèn Hình Ảnh"
+
+#: inc/class-attributes.php:429
+msgid "Link to Product"
+msgstr ""
+
+#: inc/class-attributes.php:381 inc/class-attributes.php:396
+#: inc/class-attributes.php:413 inc/class-attributes.php:465
+#: inc/admin/settings.php:41
+msgid "No"
+msgstr "Không"
+
+#: iconic-woo-attribute-swatches.php:364 inc/class-attributes.php:737
+msgid "No selection"
+msgstr "Không có sự lựa chọn nào"
+
+#: inc/class-attributes.php:316
+msgid "None"
+msgstr ""
+
+#: inc/class-attributes.php:440
+msgid "Overflow"
+msgstr ""
+
+#: inc/class-swatches.php:453
+msgid "Radio Buttons"
+msgstr ""
+
+#: inc/class-swatches.php:86
+msgid "Remove Image"
+msgstr ""
+
+#: inc/class-attributes.php:350
+msgid "Round"
+msgstr "Tròn"
+
+#: inc/class-swatches.php:152
+msgid "Select a group..."
+msgstr "Chọn một nhóm..."
+
+#: inc/admin/settings.php:25
+msgid "Selected Style"
+msgstr ""
+
+#: inc/class-attributes.php:391
+msgid "Show Large Preview?"
+msgstr ""
+
+#: inc/class-attributes.php:407
+msgid "Show Swatch in Catalog?"
+msgstr ""
+
+#: inc/class-attributes.php:460
+msgid "Show Swatch in Filters?"
+msgstr ""
+
+#: inc/admin/settings.php:37
+msgid "Show swatches in accordion?"
+msgstr ""
+
+#: inc/class-attributes.php:448
+msgid "Single Line"
+msgstr ""
+
+#: inc/class-attributes.php:449
+msgid "Slider"
+msgstr ""
+
+#: inc/class-attributes.php:350
+msgid "Square"
+msgstr ""
+
+#: inc/class-attributes.php:447
+msgid "Stacked"
+msgstr ""
+
+#: inc/admin/settings.php:14
+msgid "Style"
+msgstr ""
+
+#: inc/class-attributes.php:790
+msgid "Swatch"
+msgstr ""
+
+#: inc/class-attributes.php:133
+msgid "Swatch Options"
+msgstr ""
+
+#: inc/class-attributes.php:345
+msgid "Swatch Shape"
+msgstr ""
+
+#: inc/class-attributes.php:360
+msgid "Swatch Size (px)"
+msgstr "Kích cỡ mẫu (px)"
+
+#: inc/class-attributes.php:322
+msgid "Swatch Type"
+msgstr "Loại Swatch"
+
+#: inc/class-products.php:48
+msgid "Swatches"
+msgstr ""
+
+#. Description of the plugin
+msgid "Swatches for your variable products."
+msgstr ""
+
+#: inc/class-swatches.php:452
+msgid "Text Swatch"
+msgstr ""
+
+#: inc/class-attributes.php:346
+msgid "The shape of your swatches on the frontend."
+msgstr ""
+
+#: inc/class-attributes.php:361
+msgid "The size of your swatches on the frontend."
+msgstr ""
+
+#: inc/admin/settings.php:30
+msgid "Tick"
+msgstr ""
+"\n"
+"Đánh dấu"
+
+#: inc/class-swatches.php:86
+msgid "Upload/Add Image"
+msgstr "Tải lên/Thêm hình ảnh"
+
+#: inc/class-fees.php:100
+msgid "Value"
+msgstr "Giá trị"
+
+#: inc/class-helpers.php:78
+msgid "W"
+msgstr ""
+
+#: inc/class-attributes.php:424
+msgid "What should happen when a user clicks on the swatch in the catalog."
+msgstr ""
+
+#: inc/class-attributes.php:377
+msgid ""
+"When enabled, a tooltip style text description will accompany your swatches."
+msgstr ""
+
+#: inc/class-attributes.php:408
+msgid ""
+"When enabled, available swatches will be displayed in the catalog listing "
+"for each product."
+msgstr ""
+
+#: inc/class-attributes.php:461
+msgid ""
+"When enabled, swatches will be displayed in the WooCommerce layered nav "
+"filter widgets."
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Attribute Swatches by FCMS"
+msgstr "Các mẫu thuộc tính WooCommerce của FCMS"
+
+#: inc/class-attributes.php:381 inc/class-attributes.php:396
+#: inc/class-attributes.php:413 inc/class-attributes.php:465
+#: inc/admin/settings.php:42
+msgid "Yes"
+msgstr "Có"
